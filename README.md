@@ -1,4 +1,4 @@
 - 😄 Graduate student of Institute of Information Science, Beijing Jiaotong University.
 - 🌱 Intern of China Mobile Research Institute.
-- 💻 I focus on speech enhancement, automatic speech recognition, auditory perception modeling, robust ASR.
+- 💻 I focus on speech enhancement, auditory perception modeling, automatic speech recognition, robust ASR.
 - ☕ Hobbies: vocaloid, music, emotional expression of vocaloid? 
